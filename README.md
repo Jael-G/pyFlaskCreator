@@ -5,8 +5,7 @@
 </p>
 
 
-<h1 align="center">pyFlaskCreator </h1>
-<h5 align="center">Generate simple Flask project template</h5>
+<h1 align="center">Generate simple Flask project templates</h1>
 
 # Installation
 
