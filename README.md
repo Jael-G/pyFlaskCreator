@@ -1,5 +1,5 @@
 <p align="center">
-![Output Image](https://github.com/Jael-G/pyFlaskCreator/tree/main/media/banner.png)
+![Output Image](https://github.com/Jael-G/pyFlaskCreator/blob/main/media/banner.png)
 </p>
 
 
@@ -31,7 +31,7 @@ pyflaskcreator -p myApp
 
 **Output**
 
-![Output Image](https://github.com/Jael-G/pyFlaskCreator/tree/main/media/output.png)
+![Output Image](https://github.com/Jael-G/pyFlaskCreator/blob/main/media/output.png)
 
 
 **Project Structure**
@@ -55,4 +55,4 @@ python app.py
 
 **Landing Page**
 
-![Output Image](https://github.com/Jael-G/pyFlaskCreator/tree/main/media/landing_page.png)
+![Output Image](https://github.com/Jael-G/pyFlaskCreator/blob/main/media/landing_page.png)
