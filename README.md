@@ -1,5 +1,7 @@
 <p align="center">
-![Output Image](/media/output.png)
+
+![Banner Image](https://github.com/Jael-G/pyFlaskCreator/blob/main/media/banner.png)
+
 </p>
 
 
@@ -55,4 +57,4 @@ python app.py
 
 **Landing Page**
 
-![Output Image](https://github.com/Jael-G/pyFlaskCreator/blob/main/media/landing_page.png)
+![Landing Page Image](https://github.com/Jael-G/pyFlaskCreator/blob/main/media/landing_page.png)
