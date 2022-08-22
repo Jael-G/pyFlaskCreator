@@ -1,5 +1,5 @@
 <p align="center">
-![Output Image](https://github.com/Jael-G/pyFlaskCreator/blob/main/media/output.png)
+![Output Image](/media/output.png)
 </p>
 
 
